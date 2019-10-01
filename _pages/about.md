@@ -17,7 +17,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/IMG_0311_edit.jpg)
+![](/images/IMG_0311_edit.jpg)
 
 academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 ======
