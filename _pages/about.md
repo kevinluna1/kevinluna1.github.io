@@ -9,7 +9,7 @@
 # ---
 
 permalink: /
-title: "About Me"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,9 @@ redirect_from:
 ---
 
 ![](/images/IMG_0311_edit.jpg)
+
+About Me
+======
 
 <!-- academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 ======
