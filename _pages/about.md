@@ -27,7 +27,7 @@ Hi there! I am a fourth year Ph.D. student in the Program in Applied Mathematics
 Contact Information
 ------
 Office: ENR2 N270GG
-
+Email: KevinLuna@math.arizona.edu
 
 
 <!-- academicpages is a ready-to-fork GitHub Pages template for academic personal websites
