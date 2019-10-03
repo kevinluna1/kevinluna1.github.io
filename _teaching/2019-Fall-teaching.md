@@ -2,9 +2,9 @@
 title: "Spring 2018"
 collection: teaching
 type: "Outreach"
-#permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2019-Fall-teaching
 venue: "Apollo Middle School"
-# date:
+date: 08/2019-12/2019
 location: "Tucson, Arizona"
 ---
 

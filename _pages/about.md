@@ -30,6 +30,8 @@ Office: ENR2 N270GG
 
 Email: KevinLuna@math.arizona.edu
 
+LinkedIn: [https://www.linkedin.com/in/kevinluna1/](https://www.linkedin.com/in/kevinluna1/)
+
 
 <!-- academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 ======
