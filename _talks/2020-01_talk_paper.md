@@ -4,8 +4,8 @@ collection: talks
 type: "Conference Paper"
 permalink: /talks/2020-01_talk_paper
 venue: "AIAA SciTech 2020"
-date: 2020-01-06
-location: "Orlando FL, USA"
+date: 2020-01-05
+venue: 'AIAA ARC'
 ---
 
-Conference paper will be published on the date of the AIAA scitech meeting.  
+The conference paper will be published on the start date of the AIAA SciTech meeting.  
