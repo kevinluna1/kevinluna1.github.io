@@ -21,8 +21,11 @@ redirect_from:
 
 About Me
 ------
-Hi there! I am a fourth year Ph.D. student in the Program in Applied Mathematics at the University of Arizona. I work with [Dr. Anatoli Tumin](https://ame.engineering.arizona.edu/faculty-staff/faculty/anatoli-tumin) on research related to the receptivity, stability, and transition of high-speed boundary layer flows. 
+Hi there! I am a fourth year Ph.D. student in the Program in Applied Mathematics at the University of Arizona. I work with [Dr. Anatoli Tumin](https://ame.engineering.arizona.edu/faculty-staff/faculty/anatoli-tumin) on research related to the receptivity, stability, and transition to turbulence of high-speed boundary layer flows. 
 
+Research Interests
+------
+Generally, my research interests center around the application of numerical methods, asymptotic methods, and monte carlo methods to complex problems in fluid dynamics, statistical mechanics, and chemistry. 
 
 Contact Information
 ------
