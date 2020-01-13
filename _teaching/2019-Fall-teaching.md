@@ -1,5 +1,5 @@
 ---
-title: "Spring 2018"
+title: "Fall 2019"
 collection: teaching
 type: "Outreach"
 permalink: /teaching/2019-Fall-teaching
