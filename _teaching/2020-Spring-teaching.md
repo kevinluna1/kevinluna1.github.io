@@ -1,9 +1,9 @@
 ---
 title: "Spring 2020"
 collection: teaching
-type: "Outreach"
+type: "Research Associate"
 permalink: /teaching/2020-Spring-teaching
-venue: "Research Associate"
+venue: "Univeristy of Arizona"
 date: 01/2020-5/2020
 location: "Tucson, Arizona"
 ---
