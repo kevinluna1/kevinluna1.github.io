@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-My CV can be found [here](http://kevinluna1.github.io/files/Cv_Kevin_Luna.pdf) (last updated: April  2020)
+My CV can be found [here](http://kevinluna1.github.io/files/Cv_Kevin_Luna.pdf) (last updated: May  2020)
 
 <!-- Education
 ======
