@@ -7,4 +7,4 @@ date: 2020-01-05
 venue: 'AIAA ARC'
 ---
 
-The conference paper will be published on the start date of the AIAA SciTech meeting.  
+The conference paper corresponding to the 2020 AIAA SciTech talk can be found [here](https://doi.org/10.2514/6.2020-0107).
